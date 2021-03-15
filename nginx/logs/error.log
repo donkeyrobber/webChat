@@ -1,0 +1,1 @@
+2021/03/14 16:33:36 [error] 6#6: *1 upstream timed out (110: Operation timed out) while reading response header from upstream, client: 192.168.112.1, server: , request: "GET /chat?message=ttt HTTP/1.1", upstream: "fastcgi://192.168.112.3:9000", host: "127.0.0.1"
